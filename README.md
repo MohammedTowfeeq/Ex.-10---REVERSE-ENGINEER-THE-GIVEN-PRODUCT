@@ -31,12 +31,16 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![dial-watch](https://github.com/user-attachments/assets/e915f117-e687-4b08-a581-3db07f4237fb)
+
 
 ### Output:
+![Screenshot (13)](https://github.com/user-attachments/assets/0e93acc9-7f38-4186-beef-6807d4691185)
 
 
-### Name:
-### Register Number:
+
+### Name:Mohammed Towfeeq.S
+### Register Number: 24000491
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
